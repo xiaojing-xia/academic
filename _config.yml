@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xiaojing Xia"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral researcher at Lawrence Berkeley National Laboratory"
   location         : "Berkeley, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=w0vQtQIAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Xiaojing-Xia-2"
+  researchgate     : "https://www.researchgate.net/profile/Xiaojing-Xia-2"
   uri              :
   bitbucket        :
   codepen          :
