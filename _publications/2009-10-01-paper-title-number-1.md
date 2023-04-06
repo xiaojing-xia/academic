@@ -8,6 +8,9 @@ venue: 'Advanced Materials'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201905406'
 citation: 'Xia, X. (2021). &quot;Quantum Point Defects for Solid-State Laser Refrigeration.&quot; <i>Adv Mat</i>. 33(23).'
 ---
+<p align="center">
+  <img src="https://xiaojing-xia.github.io/academic/images/TOC_AdvMat_2021.jpeg?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
 This is paper introduces the role of point defects in laser cooling materials.
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201905406)
