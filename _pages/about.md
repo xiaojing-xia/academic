@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 Hello! Welcome to my website :)
 
 Looking for a brilliant scientist who's pushing the boundaries of nanotechnology? Look no further than me! I'm a postdoctoral research scientist based at Lawrence Berkely National Laboratory, where I'm working on the cutting edge of machine learning-guided automated experimentation of nanomaterials.
