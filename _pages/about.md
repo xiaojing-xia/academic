@@ -18,6 +18,6 @@ As a passionate advocate for science and innovation, I'm constantly looking for 
 
 So if you're looking for a scientist who's at the forefront of cutting-edge research, get in touch today!
 <p align="center">
-  <img src="https://xiaojingxia.github.io/images/ECYB2305-compressed.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://xiaojing-xia.github.io/images/ECYB2305-compressed.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
