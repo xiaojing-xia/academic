@@ -17,5 +17,7 @@ With a PhD in Molecular Engineering from the University of Washington, Seattle, 
 As a passionate advocate for science and innovation, I'm constantly looking for new ways to leverage technology to create new breakthroughs. Whether it's designing new experiments or analyzing data using advanced algorithms, I'm always exploring new frontiers and pushing the boundaries of what's possible.
 
 So if you're looking for a scientist who's at the forefront of cutting-edge research, get in touch today!
-
+<p align="center">
+  <img src="https://xiaojingxia.github.io/images/ECYB2305-compressed.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
