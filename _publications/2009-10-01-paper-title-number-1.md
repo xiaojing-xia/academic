@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Quantum Point Defects for Solid-State Laser Refrigeration"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/AdvMat_review_2021
+excerpt: 'This is paper introduces the role of point defects in laser cooling materials'
+date: 2021-06-10
+venue: 'Advanced Materials'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201905406'
+citation: 'Xia, X. (2021). &quot;Quantum Point Defects for Solid-State Laser Refrigeration.&quot; <i>Adv Mat/i>. 33(23).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This is paper introduces the role of point defects in laser cooling materials.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201905406)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Xia, X. (2021). "Quantum Point Defects for Solid-State Laser Refrigeration." <i>Adv Mat</i>. 33(23).
