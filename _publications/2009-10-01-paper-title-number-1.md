@@ -6,7 +6,7 @@ excerpt: 'This is paper introduces the role of point defects in laser cooling ma
 date: 2021-06-10
 venue: 'Advanced Materials'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201905406'
-citation: 'Xia, X. (2021). &quot;Quantum Point Defects for Solid-State Laser Refrigeration.&quot; <i>Adv Mat/i>. 33(23).'
+citation: 'Xia, X. (2021). &quot;Quantum Point Defects for Solid-State Laser Refrigeration.&quot; <i>Adv Mat</i>. 33(23).'
 ---
 This is paper introduces the role of point defects in laser cooling materials.
 
