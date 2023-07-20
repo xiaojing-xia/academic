@@ -1,7 +1,7 @@
 ---
 title: "The impact of 2H9/2 ➔4I13/2 emission from Er3+ ions on ratiometric optical temperature sensing with Yb3+/Er3+ co-doped upconversion materials"
 collection: publications
-permalink: /publication/2021-JLumin
+permalink: /publication/2021_JLumin
 excerpt: 'Unraveling the Impact of Additional Transitions: Enhancing Precision in Luminescence Ratio Thermometry with Yb3+/Er3+ Co-doped Upconversion Materials'
 date: 2021-08-01
 venue: 'Journal of Luminescence'
