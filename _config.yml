@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaojing Xia"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at Lawrence Berkeley National Laboratory"
-  location         : "Berkeley, CA"
+  bio              : "Research Associate at SLAC National Accelerator Laboratory"
+  location         : "Menlo Park, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=w0vQtQIAAAAJ&hl=en"
-  email            :
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Xiaojing-Xia-2"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xiaojing-xia/"
   orcid            : "https://orcid.org/0000-0003-2713-6891"
   pinterest        :
   soundcloud       :
