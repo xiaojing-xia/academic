@@ -7,8 +7,12 @@ venue: "Lawrence Berkeley National Laboratory"
 date: 2022-06
 location: "Berkeley, CA"
 ---
-Teaching chibitronics<br/><img src='/images/Teaching_2022_SAGE_1.png'>
-<br/><img src='/images/Teaching_2022_SAGE_2.png'>
+Teaching chibitronics
+<p align="center">
+  <img src="https://xiaojing-xia.github.io/academic/images/Teaching_2022_SAGE_1.png?raw=true" alt="Photo" style="width: 800px;"/> 
+</p>
+
+
 
 Introduction
 ======
