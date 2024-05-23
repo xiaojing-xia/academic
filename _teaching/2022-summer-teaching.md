@@ -7,15 +7,11 @@ venue: "Lawrence Berkeley National Laboratory"
 date: 2022-06
 location: "Berkeley, CA"
 ---
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Teaching chibitronics<br/><img src='/images/Teaching_2022_SAGE.png'>"
 
+Introduction
+======
 Science Accelerating Girls' Engagement in STEM (SAGE) is a one-week summer camp for public high school students at the Lab. Lab scientists, engineers, and staff shared their career paths, and the students got some hands-on experience. I taught chibitronics during this program.
-
-Heading 1
-======
-
-Heading 2
-======
 
 Video
 ======
