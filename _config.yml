@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "XxLight|Home"
+title                    : "XxLight | Home"
 title_separator          : "-"
 name                     : &name "XX"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaojing Xia"
   avatar           : "profile.png"
-  bio              : "Research Associate at SLAC National Accelerator Laboratory"
+  bio              : "SLAC National Accelerator Laboratory"
   location         : "Menlo Park, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
