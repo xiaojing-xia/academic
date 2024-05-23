@@ -4,7 +4,7 @@ collection: teaching
 type: "Summer Camp"
 permalink: /teaching/2022-summer-teaching
 venue: "Lawrence Berkeley National Laboratory"
-date: 2022-06
+date: 2022-06-11
 location: "Berkeley, CA"
 ---
 Teaching chibitronics
