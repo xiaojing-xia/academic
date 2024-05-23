@@ -1,19 +1,19 @@
 ---
-title: "Quantum Point Defects for Solid-State Laser Refrigeration"
+title: "Accelerating the Design of Multishell Upconverting Nanoparticles through Bayesian Optimization"
 collection: publications
-permalink: /publication/2021_AdvMat
-excerpt: 'This paper introduces the role of point defects in laser cooling materials'
-date: 2021-06-10
-venue: 'Advanced Materials'
-paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201905406'
-citation: 'Xia, X. (2021). &quot;Quantum Point Defects for Solid-State Laser Refrigeration.&quot; <i>Adv Mat</i>. 33(23).'
+permalink: /publication/2023_NanoLett
+excerpt: 'The first work using machine learning to design UCNPs'
+date: 2023-12-01
+venue: 'Nano Letters'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c03568'
+citation: 'Xia, X. (2023). &quot;Accelerating the Design of Multishell Upconverting Nanoparticles through Bayesian Optimization.&quot; <i>Nano Lett</i>. 23(23).'
 ---
 <p align="center">
-  <img src="https://xiaojing-xia.github.io/academic/images/TOC_AdvMat_2021.jpeg?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://xiaojing-xia.github.io/academic/images/TOC_NanoLett_2023.jpeg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
-Abstract: This review focuses on the role point defects have played over the last two decades in realizing solid-state laser refrigeration. The review begins with a brief introduction to the field of solid-state laser refrigeration, with an emphasis on the fundamental physical phenomena and quantized electronic transitions that have made solid-state laser-cooling possible. Lanthanide-based point defects, such as trivalent ytterbium ions Yb^3+, have played a central role in the first demonstrations and subsequent development of advanced materials for solid-state laser refrigeration. Significant discussion is devoted to the quantum mechanical description of optical transitions in lanthanide ions, and their influence on laser cooling. Transition-metal point defects have been shown to generate substantial background absorption in ceramic materials, decreasing the overall efficiency of a particular laser refrigeration material. The review also contains a discussion of other potential color-centers based on fluoride vacancies with multiple potential charge states. The review concludes with a discussion of novel materials for solid-state laser refrigeration, including color centers in diamond that have recently been proposed to realize the solid-state laser refrigeration of semiconducting materials.
+Abstract: The photon upconverting properties of lanthanide-doped nanoparticles drive their applications in imaging, optoelectronics, and additive manufacturing. To maximize their brightness, these upconverting nanoparticles (UCNPs) are often synthesized as core/shell heterostructures. However, the large numbers of compositional and structural parameters in multishell heterostructures make optimizing optical properties challenging. Here, we demonstrate the use of Bayesian optimization (BO) to learn the structure and design rules for multishell UCNPs with bright ultraviolet and violet emission. We leverage an automated workflow that iteratively recommends candidate UCNP structures and then simulates their emission spectra using kinetic Monte Carlo. Yb3+/Er3+- and Yb3+/Er3+/Tm3+-codoped UCNP nanostructures optimized with this BO workflow achieve 10- and 110-fold brighter emission within 22 and 40 iterations, respectively. This workflow can be expanded to structures with higher compositional and structural complexity, accelerating the discovery of novel UCNPs while domain-specific knowledge is being developed.
 
-[Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201905406)
+[Download paper here](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c03568)
 
-Recommended citation: Xia, X. (2021). "Quantum Point Defects for Solid-State Laser Refrigeration." <i>Adv Mat</i>. 33(23).
+Recommended citation: Xia, X. (2023). "Accelerating the Design of Multishell Upconverting Nanoparticles through Bayesian Optimization." <i>Nano Lett</i>. 23(23).
