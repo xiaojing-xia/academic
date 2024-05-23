@@ -12,7 +12,9 @@ Teaching chibitronics
   <img src="https://xiaojing-xia.github.io/academic/images/Teaching_2022_SAGE_1.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 
-
+<p align="center">
+  <img src="https://xiaojing-xia.github.io/academic/images/Teaching_2022_SAGE_2.png?raw=true" alt="Photo" style="width: 800px;"/> 
+</p>
 
 Introduction
 ======
@@ -21,6 +23,4 @@ Science Accelerating Girls' Engagement in STEM (SAGE) is a one-week summer camp 
 Video
 ======
 https://elements.lbl.gov/news/students-from-labs-sage-2022-program-share-their-experience/
-<p align="center">
-  <img src="https://xiaojing-xia.github.io/academic/images/Teaching_2022_SAGE_2.png?raw=true" alt="Photo" style="width: 800px;"/> 
-</p>
+
