@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Materials Physics, Materials Science and Engineering, Nanjing University, 2015
+* Ph.D in Molecular Engineering / Data Science, University of Washington, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Associate @ SLAC National Accelerator Laboratory
+  * 2024.6 - present
+  * Machine-learning assisted microscope autoalignment
+ 
+* Laser device engineer @ Apple
+  * 2023.9 - 2024.6
+  * VCSEL device test and validation automation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral research fello @ Lawrence Berkeley National Laboratory
+  * 2022.1 - 2023.8
+  * Built a closed-loop workflow to design light-emitting nanoparticles using Bayesian optimization 
+  * Supervisor: Emory Chan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer
+  * Python / C / SQL / Matlab programming
+  * QT for GUI design
+  * Simulation tools (MEEP / COMSOL / ZEMAX)
+  * 2D/3D illusstration tools like Adobe Illustrator / Blender
+* Characterization
+  * Optical alignment
+  * Laser device characterization
+  * Building bench from scratch
+  * Materials characterization like TEM/SEM/FTIR/...
+* Fabrication
+  * Cleanroom fabrication like PVD/CVD/etching/...
 
 Publications
 ======
